@@ -76,13 +76,11 @@
 ## Experiência (estilo LinkedIn)
 
 **Fullstack Developer (JavaScript) — freelance / projetos pessoais**  
-_Período:_ contínuo  
-_Local:_ remoto
 
 **Responsabilidades e entregas**
-- Projetar e desenvolver APIs REST com Node.js e Fastify.
-- Construir front-ends com React e aplicações mobile com React Native.
-- Modelagem e integrações com bancos via Prisma.
+- Projetar e desenvolver APIs REST com Node.js Fastify e Express.
+- Construir front-ends com React , Html , Bootstrap e aplicações mobile com React Native.
+- Modelagem e integrações com bancos Oracle , Mysql , Postgrees.
 - Implementar autenticação segura com JWT e gestão de sessões via cookies.
 - Desenvolver recursos em tempo real com WebSockets para chat e notificações.
 - Escrever testes com Vitest e manter pipelines locais de testes.
