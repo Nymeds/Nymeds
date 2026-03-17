@@ -1,4 +1,3 @@
- :contentReference[oaicite:0]{index=0}
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=760&lines=Fullstack+Developer;React+%7C+Node.js+%7C+React+Native;APIs+%7C+Realtime+%7C+Prisma" alt="typing" />
