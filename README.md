@@ -1,114 +1,157 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=760&lines=Fullstack+Developer;React+%7C+Node.js+%7C+React+Native;APIs+%7C+Realtime+%7C+Prisma" alt="typing" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=200&section=header&text=Fullstack%20Developer&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=React%20%7C%20Node.js%20%7C%20React%20Native%20%7C%20APIs%20%7C%20Realtime%20%7C%20Prisma&descAlignY=60&descSize=16&descColor=00F7FF&animation=fadeIn" />
 
-<p align="center">Desenvolvedor fullstack com foco em aplicações modernas, APIs robustas, integração mobile e sistemas em tempo real.</p>
+</div>
 
----
+<div align="center">
 
-## Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+fullstack+desde+o+back+at%C3%A9+o+mobile.;APIs+robustas%2C+WebSockets%2C+autenticac%CC%A7a%CC%83o+segura.;Arquiteturas+modernas+com+TypeScript+e+Prisma.;Entrega+r%C3%A1pida.+Co%CC%81digo+limpo.+Resultado+real.)](https://git.io/typing-svg)
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-<img src="https://img.shields.io/badge/Zod-0F172A?style=for-the-badge&logo=typescript&logoColor=white" alt="Zod"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/>
-</p>
+</div>
 
 ---
 
-## Projetos (cards com preview)
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Nymeds/FeedBackHub" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nymeds&repo=FeedBackHub&theme=tokyonight" alt="FeedBackHub" />
-  </a>
-  <a href="https://github.com/Nymeds/ProjetoInit" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nymeds&repo=ProjetoInit&theme=tokyonight" alt="ProjetoInit" />
-  </a>
-  <a href="https://github.com/Nymeds/FTP" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nymeds&repo=FTP&theme=tokyonight" alt="FTP" />
-  </a>
-  <a href="https://github.com/Nymeds/ProjetoPhp" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nymeds&repo=ProjetoPhp&theme=tokyonight" alt="ProjetoPhp" />
-  </a>
-</p>
+### STACK
 
-### FeedBackHub
-**Repositório:** https://github.com/Nymeds/FeedBackHub  
-**Resumo:** Plataforma fullstack para coleta e gerenciamento de feedbacks, com versões web e mobile.  
-**Stack:** TypeScript, Node.js, Prisma, Zod, React, React Native, Redux.  
-**Destaques:** validação de entrada com Zod, arquitetura unificada web/mobile, integrações para notificações.
+<br/>
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F7FF)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=00F7FF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F7FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F7FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7FF)
+
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=00F7FF)
+![Zod](https://img.shields.io/badge/Zod-0D1117?style=for-the-badge&logo=typescript&logoColor=00F7FF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00F7FF)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=00F7FF)
+
+</div>
 
 ---
 
-### Projeto Init
-**Repositório:** https://github.com/Nymeds/ProjetoInit  
-**Resumo:** Dashboard colaborativo para equipes com chat em tempo real e suporte a IA.  
-**Stack:** React, Node.js (Fastify), Prisma, Zod, Vite, Vitest, React Native.  
-**Destaques:** autenticação JWT (cookies), WebSockets para chat, integração com IA (Gemini), recuperação de senha por email.
+## PROJETOS
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+### [FeedBackHub](https://github.com/Nymeds/FeedBackHub)
+
+> Plataforma fullstack para coleta e gerenciamento de feedbacks, com versoes web e mobile.
+
+`TypeScript` `Node.js` `Prisma` `Zod` `React` `React Native` `Redux`
+
+- Validacao de entrada com Zod
+- Arquitetura unificada web/mobile
+- Integracoes para notificacoes
+
+[![FeedBackHub](https://github-readme-stats.vercel.app/api/pin/?username=Nymeds&repo=FeedBackHub&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=1C2333&hide_border=false)](https://github.com/Nymeds/FeedBackHub)
+
+</td>
+<td width="50%" valign="top">
+
+### [Projeto Init](https://github.com/Nymeds/ProjetoInit)
+
+> Dashboard colaborativo para equipes com chat em tempo real e suporte a IA.
+
+`React` `Fastify` `Prisma` `Zod` `Vite` `Vitest` `React Native`
+
+- Autenticacao JWT via cookies
+- WebSockets para chat em tempo real
+- Integracao com Gemini AI
+
+[![ProjetoInit](https://github-readme-stats.vercel.app/api/pin/?username=Nymeds&repo=ProjetoInit&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=1C2333)](https://github.com/Nymeds/ProjetoInit)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Servidor FTP](https://github.com/Nymeds/FTP)
+
+> Implementacao academica de servidor FTP com interface web para gerenciamento de arquivos.
+
+`Python` `pyftpdlib` `Node.js` `Express` `basic-ftp`
+
+- Logs de protocolo FTP
+- Modo passive/active
+- Upload, preview e download via browser
+
+[![FTP](https://github-readme-stats.vercel.app/api/pin/?username=Nymeds&repo=FTP&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=1C2333)](https://github.com/Nymeds/FTP)
+
+</td>
+<td width="50%" valign="top">
+
+### [Projeto PHP](https://github.com/Nymeds/ProjetoPhp)
+
+> Sistema de upload e gerenciamento de imagens — desenvolvido em menos de 24 horas para desafio.
+
+`PHP` `CodeIgniter` `Vue.js` `PrimeVue`
+
+- Entregue em menos de 24 horas
+- Arquitetura organizada sob pressao
+- UI funcional com PrimeVue
+
+[![ProjetoPhp](https://github-readme-stats.vercel.app/api/pin/?username=Nymeds&repo=ProjetoPhp&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=1C2333)](https://github.com/Nymeds/ProjetoPhp)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Servidor FTP com Interface Web
-**Repositório:** https://github.com/Nymeds/FTP  
-**Resumo:** Implementação acadêmica de servidor FTP (Python) com interface web (Node.js).  
-**Stack:** Python (pyftpdlib), Node.js (basic-ftp, Express).  
-**Destaques:** logs de protocolo, modo passive/active, interface para upload/preview/download.
+## EXPERIENCIA
+
+<table align="center" border="0" width="100%">
+<tr>
+<td>
+
+**Fullstack Developer (JavaScript) — freelance / projetos pessoais**
+
+APIs REST com **Node.js Fastify** e **Express** — front-ends com **React**, HTML, Bootstrap — mobile com **React Native** — bancos **Oracle**, **MySQL**, **PostgreSQL** — autenticacao com **JWT** e sessoes via cookies — tempo real com **WebSockets** — testes com **Vitest** — integracoes com email e IA.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Projeto PHP (Desafio 24h)
-**Repositório:** https://github.com/Nymeds/ProjetoPhp  
-**Resumo:** Sistema de upload e gerenciamento de imagens desenvolvido em menos de 24 horas para desafio.  
-**Stack:** PHP (CodeIgniter), Vue.js, PrimeVue.  
-**Destaques:** entrega rápida com arquitetura organizada e UI funcional.
+## ESTATISTICAS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nymeds&show_icons=true&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=1C2333&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nymeds&layout=compact&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=1C2333&hide_border=false"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nymeds&theme=transparent&hide_border=false&stroke=1C2333&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=888888&dates=888888&background=00000000&border=1C2333" />
+
+</div>
 
 ---
 
-## Experiência (estilo LinkedIn)
+<div align="center">
 
-**Fullstack Developer (JavaScript) — freelance / projetos pessoais**  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nymeds&theme=react-dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=false&border_color=1C2333" />
 
-**Responsabilidades e entregas**
-- Projetar e desenvolver APIs REST com Node.js Fastify e Express.
-- Construir front-ends com React , Html , Bootstrap e aplicações mobile com React Native.
-- Modelagem e integrações com bancos Oracle , Mysql , Postgrees.
-- Implementar autenticação segura com JWT e gestão de sessões via cookies.
-- Desenvolver recursos em tempo real com WebSockets para chat e notificações.
-- Escrever testes com Vitest e manter pipelines locais de testes.
-- Integração com serviços externos (email, IA).
-
-**Projetos relevantes**
-- FeedBackHub: plataforma web + mobile para feedbacks com estado global e persistência via Prisma.
-- Projeto Init: dashboard colaborativo com chat em tempo real e suporte a IA.
-- FTP: estudo prático do protocolo FTP com UI para gerenciamento de arquivos.
+</div>
 
 ---
 
-## Estatísticas
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nymeds&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Nymeds-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117)](https://github.com/Nymeds)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nymeds&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+</div>
 
----
-
-## Contato
-
-<p align="center">
-  <a href="https://github.com/Nymeds">GitHub</a> • <a href="mailto:seuemail@exemplo.com">.</a>
-</p>
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=100&section=footer&reversal=false" />
+</div>
