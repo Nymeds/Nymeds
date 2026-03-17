@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-en-00F7FF?style=flat-square&logo=googletranslate&logoColor=white)](./README.en.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=200&section=header&text=Fullstack%20Developer&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=React%20%7C%20Node.js%20%7C%20React%20Native%20%7C%20APIs%20%7C%20Realtime%20%7C%20Prisma&descAlignY=60&descSize=16&descColor=00F7FF&animation=fadeIn" />
