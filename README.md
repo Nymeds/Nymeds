@@ -108,7 +108,7 @@
 ## Contato
 
 <p align="center">
-  <a href="https://github.com/Nymeds">GitHub</a> • <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a>
+  <a href="https://github.com/Nymeds">GitHub</a> • <a href="mailto:seuemail@exemplo.com">.</a>
 </p>
 
 ---
